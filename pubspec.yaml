@@ -1,0 +1,79 @@
+name: app_test_demo
+description: "A new Flutter project."
+
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.0
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_bloc: 9.1.0
+  flutter_localizations:
+    sdk: flutter
+  flutter_svg: 2.0.17
+  intl_utils: 2.8.10 #dart run intl_utils:generate
+  get_it: 8.0.3
+  equatable: ^2.0.7
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  build_runner: ^2.4.15
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
+    - assets/images/
+flutter_intl:
+  enabled: true
+  class_name: S
+  main_locale: vi
+  arb_dir: lib/l10n
+  output_dir: lib/generated
+
+flutter_assets:
+  assets_path: assets/
+  output_path: lib/generated/
+  filename: assets.dart
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

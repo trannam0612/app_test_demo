@@ -1,0 +1,16 @@
+{
+  "order": "Order",
+  "profile": "Profile",
+  "language": "Language",
+  "enLanguage": "English (US)",
+  "logOut": "Log out",
+  "viLanguage": "Vietnamese (VI)",
+  "workOrders": "Work Orders",
+  "emptyData": "List is empty",
+  "loadingDataError": "Loading data error",
+  "workOrderDetail": "Work Order Detail",
+  "pending": "Pending",
+  "process": "In process",
+  "complete": "Completed",
+  "canceled": "Canceled"
+}

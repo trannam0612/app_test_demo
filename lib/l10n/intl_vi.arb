@@ -1,0 +1,16 @@
+{
+  "order": "Đơn hàng",
+  "profile": "Hô sơ cá nhân",
+  "language": "Ngôn ngữ",
+  "enLanguage": "Tiếng anh (US)",
+  "logOut": "Đăng xuất",
+  "viLanguage": "Tiếng viêt (VI)",
+  "workOrders": "Công việc được giao",
+  "emptyData": "Danh sách công việc trống",
+  "loadingDataError": "Lỗi tải dữ liệu",
+  "workOrderDetail": "Chi tiết công việc",
+  "pending": "Đang chờ",
+  "process": "Đang xử lý",
+  "complete": "Đã hoàn thành",
+  "canceled": "Đã hủy"
+}

@@ -1,0 +1,1 @@
+const kDateTimeFormat = 'yyyy-MM-dd HH:mm:ss';
